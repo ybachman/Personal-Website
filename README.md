@@ -1,6 +1,5 @@
 # Personal-Website
-
-My personal website which will be used in my job hunt.
+My personal website which is being used in my job hunt.
 
 This website displays some of my ability to use HTML and CSS. Through this website, 
 potential employers can view a PDF of my resume, unoffical spring 2016 college transcript, 
